@@ -10,12 +10,12 @@ I am a social psychology PhD student at [Ludwig-Maximilians-Universität Münche
 ## Contact Me 📫
 
 <div style="display: inline-block"><br>
- <a href="mailto:Amelia.Zein@psy.lmu.de"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
  <a href="https://bsky.app/profile/ameliazein.bsky.social"><img src="https://img.shields.io/badge/-Bluesky-3686f7?style=flat&logo=icloud&logoColor=white" target="_blank"></a>
  <a href="https://scholar.google.com/citations?user=0lWYoUIAAAAJ&hl=de"><img src="https://img.shields.io/badge/Google%20Scholar-%2320beff?color=1f1f18&logo=google-scholar&style=flat-square" target="_blank"></a>
  <a href="https://rameliaz.github.io/"><img src="https://img.shields.io/badge/personal-homepage" target="_blank"></a>
 </div>
 
 ## My Stats 📊
+
 
 ![Amelia's Github Stats](https://github-readme-stats.vercel.app/api?username=rameliaz&rank_icon=github&theme=radical)
