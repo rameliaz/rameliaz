@@ -27,7 +27,7 @@
 </a>
 <br><br><br>
 
-I am a social psychology PhD student at [Ludwig-Maximilians-Universität München](https://www.lmu.de/psy/de/personen/kontaktseite/rizqy-amelia-zein-c6eb5d9f.html). Previously, I worked as an assistant professor at [Universitas Airlangga](https://psikologi.unair.ac.id/dosen-rizqy-amelia-zein/), teaching quantitative methods in psychology, statistics, social and personality psychology. My research projects focus on three areas: understanding how people relate to scientific and religious explanations; improving the quality and precision of psychological measures; and understanding people's experiences with and relationships to science.
+I am a social psychology PhD student at [Ludwig-Maximilians-Universität München](https://www.lmu.de/psy/de/personen/kontaktseite/rizqy-amelia-zein-c6eb5d9f.html). Previously, I worked as an assistant professor at [Universitas Airlangga](https://psikologi.unair.ac.id/dosen-rizqy-amelia-zein/), teaching quantitative methods in psychology, statistics, social and personality psychology. My research projects focus on three areas: examining how people relate to scientific and religious explanations; improving the quality and precision of psychological measures; and understanding people's experiences with and relationships to science.
 
 ## My Tools 🔧
 ![R](https://img.shields.io/badge/-R-173552?style=for-the-badge&logo=R&logoColor=2365B7)
@@ -42,6 +42,7 @@ The best way to reach me is by [email](mailto:ameliazein@gmail.com) or you could
 
 ## My Stats 📊
 ![Amelia's Github Stats](https://github-readme-stats.vercel.app/api?username=rameliaz&rank_icon=github&theme=radical)
+
 
 
 
