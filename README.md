@@ -36,13 +36,14 @@ I am a social psychology PhD student at [Ludwig-Maximilians-Universität Münche
 ![SQL](https://img.shields.io/badge/-SQL-173552?style=for-the-badge&logo=MySQL&logoColor=FFFFFF&logoWidth=20)
 ![Git](http://img.shields.io/badge/-Git-173552?style=for-the-badge&logo=Git)
 ![Github](http://img.shields.io/badge/-Github-173552?style=for-the-badge&logo=Github&logoColor=FFFFFF)
-![Quarto](https://img.shields.io/badge/-Quarto-75AADB?style=for-the-badge&logo=quarto&logoColor=FFFFFF)
+![Quarto](https://img.shields.io/badge/-Quarto-173552?style=for-the-badge&logo=quarto&logoColor=FFFFFF)
   
 ## Contact Me 📫
 The best way to reach me is by [email](mailto:ameliazein@gmail.com) or you could visit my [personal website](https://rameliaz.github.io/).
 
 ## My Stats 📊
 ![Amelia's Github Stats](https://github-readme-stats.vercel.app/api?username=rameliaz&rank_icon=github&theme=radical)
+
 
 
 
