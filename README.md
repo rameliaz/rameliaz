@@ -31,7 +31,7 @@ I am a research associate at [Ludwig-Maximilians-Universität München](https://
 
 ## My Tools 🔧
 ![R](https://img.shields.io/badge/-R-173552?style=for-the-badge&logo=R&logoColor=2365B7)
-![RStudio](https://img.shields.io/badge/-rstudio-173552?style=for-the-badge&logo=rstudio&logoColor=FFFFFF)
+![Positron](https://img.shields.io/badge/-Positron-173552?style=for-the-badge)
 ![Markdown](http://img.shields.io/badge/-Markdown-173552?style=for-the-badge&logo=Markdown&logoColor=FFFFFF)
 ![SQL](https://img.shields.io/badge/-SQL-173552?style=for-the-badge&logo=MySQL&logoColor=FFFFFF&logoWidth=20)
 ![Git](http://img.shields.io/badge/-Git-173552?style=for-the-badge&logo=Git)
@@ -43,6 +43,7 @@ The best way to reach me is by [email](mailto:ameliazein@gmail.com) or you could
 
 ## My Stats 📊
 ![Amelia's Github Stats](https://github-readme-stats.vercel.app/api?username=rameliaz&rank_icon=github&theme=radical)
+
 
 
 
