@@ -27,7 +27,7 @@
 </a>
 <br><br><br>
 
-I am a research associate at [Ludwig-Maximilians-Universität München](https://www.lmu.de/psy/de/personen/kontaktseite/rizqy-amelia-zein-c6eb5d9f.html) and an assistant professor at [Universitas Airlangga](https://psikologi.unair.ac.id/dosen-rizqy-amelia-zein/). At Airlangga, I teach courses in quantitative research methods, statistics, social psychology and personality psychology. My research projects focus on three areas: examining how people relate to **scientific and religious** explanations; improving **the quality and precision** of psychological measures; and understanding people's **experiences with and epistemic relationships** to science and other ways of knowing.
+I am a postdoc at Research Data & Methods, [Center of Advanced Internet Studies (CAIS)](https://www.cais-research.de/forschung/rdm-research-data-methods/) and an assistant professor at [Universitas Airlangga](https://psikologi.unair.ac.id/dosen-rizqy-amelia-zein/). At Airlangga, I teach courses in quantitative research methods, statistics, social psychology and personality psychology. My research projects focus on three areas: examining how people relate to **scientific and religious** explanations; improving **the quality and precision** of psychological measures; and understanding people's **experiences with and epistemic relationships** to science and other ways of knowing.
 
 ## My Tools 🔧
 ![R](https://img.shields.io/badge/-R-173552?style=for-the-badge&logo=R&logoColor=2365B7)
@@ -43,6 +43,7 @@ The best way to reach me is by [email](mailto:ameliazein@gmail.com) or you could
 
 ## My Stats 📊
 ![Amelia's Github Stats](https://github-readme-stats.vercel.app/api?username=rameliaz&rank_icon=github&theme=radical)
+
 
 
 
