@@ -27,7 +27,7 @@
 </a>
 <br><br><br>
 
-I am a postdoc at Research Data & Methods, [Center of Advanced Internet Studies (CAIS)](https://www.cais-research.de/team/rizqy-amelia-zein/) and an assistant professor at [Universitas Airlangga](https://psikologi.unair.ac.id/dosen-rizqy-amelia-zein/). At Airlangga, I teach courses in quantitative research methods, statistics, social psychology and personality psychology. My research projects focus on three areas: examining how people relate to **scientific and religious** explanations; improving **the quality and precision** of psychological measures; and understanding people's **experiences with and epistemic relationships** to science and other ways of knowing.
+I am a postdoc at Research Data & Methods, [Center of Advanced Internet Studies (CAIS)](https://www.cais-research.de/team/rizqy-amelia-zein/) and an assistant professor at [Universitas Airlangga](https://psikologi.unair.ac.id/dosen-rizqy-amelia-zein/). 
 
 ## My Tools 🔧
 ![R](https://img.shields.io/badge/-R-173552?style=for-the-badge&logo=R&logoColor=2365B7)
@@ -39,13 +39,7 @@ I am a postdoc at Research Data & Methods, [Center of Advanced Internet Studies 
 ![Quarto](https://img.shields.io/badge/-Quarto-173552?style=for-the-badge&logo=quarto&logoColor=FFFFFF)
   
 ## Contact Me 📫
-The best way to reach me is by [email](mailto:ameliazein@gmail.com) or you could visit my [personal website](https://rameliaz.github.io/).
-
-## My Stats 📊
-![Amelia's Github Stats](https://github-readme-stats.vercel.app/api?username=rameliaz&rank_icon=github&theme=radical)
-
-
-
+The best way to reach me is by [email](mailto:amelia.zein@psikologi.unair.ac.id) or you can visit my [personal website](https://rameliaz.github.io/).
 
 
 
