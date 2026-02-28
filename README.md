@@ -33,13 +33,13 @@ I am a postdoc at Research Data & Methods, [Center of Advanced Internet Studies 
 ![R](https://img.shields.io/badge/-R-173552?style=for-the-badge&logo=R&logoColor=2365B7)
 ![Positron](https://img.shields.io/badge/-Positron-173552?style=for-the-badge)
 ![Markdown](http://img.shields.io/badge/-Markdown-173552?style=for-the-badge&logo=Markdown&logoColor=FFFFFF)
-![SQL](https://img.shields.io/badge/-SQL-173552?style=for-the-badge&logo=MySQL&logoColor=FFFFFF&logoWidth=20)
 ![Git](http://img.shields.io/badge/-Git-173552?style=for-the-badge&logo=Git)
 ![Github](http://img.shields.io/badge/-Github-173552?style=for-the-badge&logo=Github&logoColor=FFFFFF)
 ![Quarto](https://img.shields.io/badge/-Quarto-173552?style=for-the-badge&logo=quarto&logoColor=FFFFFF)
   
 ## Contact Me 📫
 The best way to reach me is by [email](mailto:amelia.zein@psikologi.unair.ac.id) or you can visit my [personal website](https://rameliaz.github.io/).
+
 
 
 
