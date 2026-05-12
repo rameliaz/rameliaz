@@ -27,7 +27,7 @@
 </a>
 <br><br><br>
 
-I am a postdoc at Research Data & Methods, [Center of Advanced Internet Studies (CAIS)](https://www.cais-research.de/team/rizqy-amelia-zein/) and an assistant professor at [Universitas Airlangga](https://psikologi.unair.ac.id/dosen-rizqy-amelia-zein/). 
+I am a postdoc at Research Data & Methods, [Center for Advanced Internet Studies (CAIS)](https://www.cais-research.de/team/rizqy-amelia-zein/) and an assistant professor at [Universitas Airlangga](https://psikologi.unair.ac.id/dosen-rizqy-amelia-zein/). 
 
 ## My Tools 🔧
 ![R](https://img.shields.io/badge/-R-173552?style=for-the-badge&logo=R&logoColor=2365B7)
